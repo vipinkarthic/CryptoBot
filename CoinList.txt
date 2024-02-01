@@ -1,0 +1,6 @@
+btc
+bnb
+matic
+sol
+eth
+doge
